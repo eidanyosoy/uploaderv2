@@ -9,7 +9,7 @@
 ######################################################
 ########   ich scheiß auf alle ihr hajos   ###########
 ######################################################
-FROM lsiobase/alpine:3.13
+FROM lsiobase/alpine:3.17
 LABEL maintainer=doob187
 LABEL org.opencontainers.image.source https://github.com/mrfret/uploaderv2
 RUN \
